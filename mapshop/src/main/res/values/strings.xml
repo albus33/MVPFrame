@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapShop</string>
+    <string name="main_index">首页</string>
+    <string name="nearby">附近</string>
+    <string name="release">发布</string>
+    <string name="news">消息</string>
+    <string name="login">登陆</string>
+</resources>
